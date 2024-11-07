@@ -6,4 +6,4 @@
 Making RISC-V CPU
 
   *it must be run at FPGA (probably Xilinx ZynQ- 7000)
-  *It should be satisfied my criteria
+  It should be satisfied my criteria
