@@ -10,7 +10,7 @@
 
 - 추후 내용 종합하여 입사용 포트폴리오 제출
 
-## Implented features
+## Implemented features
 - 없음.
 
 ## Reference
